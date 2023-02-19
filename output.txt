@@ -1,0 +1,5 @@
+hash table total search time: 0.201 ms
+avl total search time: 0.415 ms
+bst total search time: 0.765 ms
+sorted array total search time: 1.285 ms
+unsorted array total search time: 3.036 ms
